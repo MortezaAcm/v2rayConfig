@@ -1,1 +1,10 @@
 
+vless://4bb453e5-51f2-4b6a-8455-2a143ef047d2@speedvpnx.smartphone1.top:8081?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8D%8E
+
+vless://76377624-1076-4a78-82ac-0984595fa21d@81.12.33.2:1421?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#%40vpnbaz%20%F0%9F%AB%9C
+
+vless://45072df7-25a0-4a74-ae53-6d39efda984c@super.vpnfredom.indevs.in:776?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8D%95
+
+vless://45072df7-25a0-4a74-ae53-6d39efda984c@super.vpnfredom.indevs.in:776?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8F%80
+
+vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@104.17.165.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#%40vpnbaz%20%F0%9F%8E%AF
