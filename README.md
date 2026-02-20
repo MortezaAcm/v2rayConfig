@@ -15,7 +15,7 @@ this is test repo for test `.md` file and `git` and `github.com`
 }
 ```
 
-## My Primary Language Programming:
+## My Primary Programming Language:
 
 ```javascript
 console.log("JavaScript");
