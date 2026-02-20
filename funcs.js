@@ -4,7 +4,7 @@ const likePost = () => {
   return true;
 };
 
-const disslikePost = () => {
+const dislikePost = () => {
   return false;
 };
 
